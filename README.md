@@ -1,17 +1,24 @@
-
 # :us: **J. Leary (TrooperLeary)** ✅
 ## :palm_tree: *Sunshine State Media LLC*  :sunrise:
 ### *Sunshine State FivePD - A FiveM Law Enforcement, EMS/Fire & Civilian Community*
 #### :video_game: **Game Developer/Graphic Designer**
 ## :e-mail: tomb.ucs@gmail.com
 
+#### This github is for archives of my digital work.
+
+- FiveM Community Information Below -
 
 Polk County/Lakeland FL is looking for new residents, LEO & EMS! Join today, RP with us tonight!
 SUNSHINE STATE FivePD / Civilian hybrid vMenu server! Polk County Florida Based
- Join TODAY - RP Today! Join Now -----> https://discord.gg/3VrRq6MmsX
 Discord LINK AT BOTTOM! Please DO NOT DM me here - I don't answer. Leave a comment or JOIN!
-Sunshine State FivePD is a SMALL, Semi Serious relaxed adult ran and populated server. With a nightly activity ranging from 2-10 We are looking to increase activity. We’re less of your run of the mill server and more of a community, our server is more of a chill hangout spot for adults to hang and BS or patrol after work.
-We've got tons to do within the server, but you can even create your own business empire, purchase player owned businesses and properties with Custom PIN Pad locks/security cameras. Work for the court system and prosecute criminals, participate in trials, be a Defense Attorney or even a Judge!
+Sunshine State FivePD is a SMALL, Semi Serious relaxed adult ran and populated server. 
+With a nightly activity ranging from 2-10 We are looking to increase activity. 
+We’re less of your run of the mill server and more of a community, our server is more of 
+a chill hangout spot for adults to hang and BS or patrol after work.
+We've got tons to do within the server, but you can even create your own business empire, 
+purchase player owned businesses and properties with Custom PIN Pad locks/security cameras. 
+Work for the court system and prosecute criminals, participate in trials, be a Defense Attorney or even a Judge!
+
 #### Multiple Public Safety Departments Available!
 - Florida Highway Patrol
 - Polk County Sheriff
