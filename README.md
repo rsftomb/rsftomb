@@ -46,7 +46,7 @@ Exclusives available at the dealer or on Private Sale!
 We are vMenu and NOT economy based therefore casual players aren't left behind but we do have a bank system and the abilities 
 to purchase/sell/trade items, properties etc. We also have tons for civs, vehicles, MLOs, Aviation, Civ Jobs(not ESX so no grind), 
 property and business ownership, court system and more. Join today and become a part of our awesome community of chill adults.
-https://discord.gg/3VrRq6MmsX
+[Join Sunshine State FivePD](https://discord.gg/3VrRq6MmsX)
 
 
 
