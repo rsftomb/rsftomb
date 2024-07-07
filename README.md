@@ -1,10 +1,25 @@
 # :us: **J. Leary (TrooperLeary)** ✅
-## :palm_tree: *Sunshine State Media LLC*  :sunrise:
+## 🌴 *Sunshine State Media LLC*  🌅
 ### *Sunshine State FivePD - A FiveM Law Enforcement, EMS/Fire & Civilian Community*
 #### :video_game: **Game Developer/Graphic Designer**
-## :e-mail: tomb.ucs@gmail.com
+## 📧 tomb.ucs@gmail.com 
 
 #### This github is for archives of my digital work.
+
+
+## Board of Directors
+- K. Smith Founder/Developer 
+- J. Leary
+- T. Gunner
+- A. Murphy
+- T. Wells
+
+## Sunshine State FivePD Documents 📂
+- 📎[Polk County Ordinances - Server Rules](https://docs.google.com/document/d/1Kd3B_sPYS07LpGVoafpZFYwgZ9guLJQx9xr8nOFr_wM/edit?usp=sharing)
+- 📎[Sunshine State FivePD - Self Setup Guide](https://docs.google.com/document/d/1zxi9m3mj8I7qyJxAjZmTSBERDtcmpCBecwA3-B83_lA/edit?usp=sharing)
+- 📎[Polk County Property Tax Assessment - Residential & Non Commercial](https://docs.google.com/document/d/10GCZ8zxOrSKKZji6E6cj5Si0mcUKj_jhQM-tR17X88g/edit?usp=sharing)
+- 📎[Polk County Property Tax Assessment - Business & Commercial](https://docs.google.com/document/d/131WNT9O1prfhapBKbneXmq0catortljBokb9fA2JW8M/edit)
+
 
 - FiveM Community Information Below -
 
