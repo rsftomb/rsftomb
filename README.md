@@ -7,13 +7,6 @@
 #### This github is for archives of my digital work.
 
 
-## Board of Directors
-- K. Smith Founder/Developer 
-- J. Leary
-- T. Gunner
-- A. Murphy
-- T. Wells
-
 ## Sunshine State FivePD Documents 📂
 - 📎[Polk County Ordinances - Server Rules](https://docs.google.com/document/d/1Kd3B_sPYS07LpGVoafpZFYwgZ9guLJQx9xr8nOFr_wM/edit?usp=sharing)
 - 📎[Sunshine State FivePD - Self Setup Guide](https://docs.google.com/document/d/1zxi9m3mj8I7qyJxAjZmTSBERDtcmpCBecwA3-B83_lA/edit?usp=sharing)
