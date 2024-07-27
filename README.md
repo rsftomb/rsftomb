@@ -2,7 +2,6 @@
 ## 🌴 *Sunshine State Media LLC*  🌅
 ### *Sunshine State FivePD - A FiveM Law Enforcement, EMS/Fire & Civilian Community*
 #### :video_game: **Game Developer/Graphic Designer**
-## 📧 tomb.ucs@gmail.com 
 
 #### This github is for archives of my digital work.
 
