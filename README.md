@@ -1,6 +1,6 @@
 # :us: **J. Leary (TrooperLeary)** ✅
 ## 🌴 *Sunshine State Media LLC*  🌅
-### *Sunshine State FivePD - A FiveM Law Enforcement, EMS/Fire & Civilian Community*
+### *V-LETC Project*
 #### :video_game: **Game Developer/Graphic Designer**
 
 #### This github is for archives of my digital work.
