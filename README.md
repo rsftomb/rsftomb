@@ -1,7 +1,7 @@
 ## 🌴 *Sunshine State Media LLC*  🌅
 ### *V-LETC Project*
 #### :video_game: **Game Developer/Graphic Designer**
-#### :video_game: **Learninh Pi&Python - Wardriving**
+#### :video_game: **Learning Pi&Python - Wardriving**
 
 OLED Hat V1 – README
 Overview
