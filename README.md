@@ -3,20 +3,23 @@
 #### :video_game: **Game Developer/Graphic Designer**
 #### :video_game: **Learning Pi&Python - Wardriving**
 
-OLED Hat V1 – README
+WarPi.G Zero2W – README
 Overview
 
-OLED-Hat-V1 is a Raspberry Pi monitoring tool designed for multi-screen OLED HATs.
+WarPi.G Zero2W is a Raspberry Pi Wardriving tool designed for Pi Zero 2W with multi-screen OLED HATs.
 It displays real-time system stats including:
 
 - CPU load
 - RAM usage
 - Temperature (°F or °C)
 - WiFi networks detected (current + unique)
+- SSIDs
 - Bluetooth devices detected (current + unique)
+- Bluetooth MACs & IDs
 - Uptime
-- USB/5V Input voltage (where supported)
-- Auto-updates from Git repo and is designed for continuous 24/7 operation.
+- SD Capacity
+- Automatic Updates
+- Radar animation screen queried by current networks signal strength
 
 Features
 - Supports multi-display Waveshare OLED HATs
