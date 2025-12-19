@@ -1,5 +1,5 @@
 ## 🌴 *Sunshine State Media LLC*  🌅
-### *V-LETC Project*
+
 #### :video_game: **Game Developer/Graphic Designer**
 #### :video_game: **Learning Pi&Python - Wardriving**
 
