@@ -1,5 +1,6 @@
 📓WarPi.G – Patch Notes
 Initial Release (Boar# 1225.01 Tusk) Beta
+
 Features
 
     Wi-Fi and Bluetooth scanning with live telemetry
