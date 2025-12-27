@@ -1,58 +1,26 @@
-## 🌴 *Sunshine State Media LLC*  🌅
+📓WarPi.G – Patch Notes
+Initial Release (Boar# 1225.01 Tusk) Beta
+Features
 
-#### :video_game: **Game Developer/Graphic Designer**
-#### :video_game: **Learning Pi&Python - Wardriving**
+    Wi-Fi and Bluetooth scanning with live telemetry
+    Animated radar visualization with sweep-based detection
+    Signal-strength–based positioning and blip aging
+    Real-time counts for current and total devices
+    Mobile-friendly WebUI with Dashboard, Wi-Fi, and Bluetooth tabs
 
-======== WarPi.G Zero2W - Python Wardriver for Pi Zero2w ======== 
+System & Stability
 
-Dual-OLED live telemetry + Wi-Fi/Bluetooth scanning system for the Raspberry Pi Zero 2 W.
-Designed for compact wardriving rigs.
+    Reliable startup via systemd with boot-time safeguards
+    Stable background scanning and safe restarts
+    SD card health and read-only filesystem detection
 
-- Designed and tested on Raspberry Pi Zero 2 W
-- Optimized for low power, portable wardriving use
-- Intended for educational and lawful wireless surveying only - Author IS NOT liable for end users actions.
-- Supports 2x SSD1306 (128×64) I²C OLED displays, pulls device/system stats, and continuously updates live scan data in real time.
-- Future display support additions planned - Can be manually configured for your display.
+UI & UX
 
-✨ **WarPi.G Features**
+    Green-on-black OLED/WebUI aesthetic
+    Scrollable live device lists
+    Consistent icon + metric layout
+    1-second real-time refresh
 
-📡 **WiFi Wardriving**
-- Wi-Fi Uses _iwlist_ for maximum compatibility
-- Shows current visible SSIDs
-- Counts current visible devices
-- Stores unique SSIDs for "Total Seen This Boot"
-
-📶 **Bluetooth**
-- Uses _bluetoothctl_ scan on/off
-- Shows current visible Device Names
-- Counts current visible devices
-- Stores unique MACs "Total Seen This Boot"
-
-📺 **Native Dual OLED Output - 40pin GPIO SLC**
-
-- Left Display (0x3C): System Info
-User: [username]
-CPU temperature (°F)
-CPU load %
-IP address
-Uptime HH:MM:SS
-SD Usage
-
-Right Display (0x3D): Wardriving Info
-
-Mode: “Wardrive”
-
-Wi-Fi icon + Now / Total
-
-Bluetooth icon + Now / Total
-
-✔ Multithreaded
-
-Separate Wi-Fi and Bluetooth worker threads keep counts live and responsive.
-
-✔ Clean Icons
-
-Minimal WiFi + BT glyphs for clarity.
 
 📦 **Hardware Requirements**
 
